@@ -181,7 +181,7 @@
 
 .header-menu ul li .sub-menu {
     position: absolute;
-    width: 200px;
+    max-width: 200px;
     display: block;
     text-align: left;
     background: #fff;
