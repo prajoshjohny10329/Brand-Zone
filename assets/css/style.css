@@ -5322,3 +5322,6 @@ ul.social-box li a:hover {
 .sidebar-logo-img{
     width: 240px;
 }
+.nav-active{
+    color: var(--primary-color);
+}
