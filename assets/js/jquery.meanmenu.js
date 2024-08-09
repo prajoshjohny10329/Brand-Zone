@@ -120,9 +120,10 @@
 						var meanInner = function() {
 								// get last class name
 								if (jQuery($navreveal).is(".meanmenu-reveal.meanclose")) {
-										$navreveal.html(meanMenuClose);
+										// $navreveal.html(meanMenuClose);
 								} else {
 										$navreveal.html(meanMenuOpen);
+
 								}
 						};
 
@@ -184,16 +185,16 @@
 											if(meanExpandableChildren){
 												jQuery('.mean-nav ul ul').each(function() {
 														if(jQuery(this).children().length){
-																jQuery(this,'li:first').parent().append('<a class="mean-expand" href="#" style="font-size: '+ meanMenuCloseSize +'">'+ meanExpand +'</a>');
+																jQuery(this,'li:first').parent().append('<a class="mean-expand fa fa-chevron-down" href="#" style="font-size: '+ meanMenuCloseSize +'"> </a>');
 														}
 												});
 												jQuery('.mean-expand').on("click",function(e){
 														e.preventDefault();
 															if (jQuery(this).hasClass("mean-clicked")) {
-																	jQuery(this).text(meanExpand);
+																	// jQuery(this).text(meanExpand);
 																jQuery(this).prev('ul').slideUp(300, function(){});
 														} else {
-																jQuery(this).text(meanContract);
+																// jQuery(this).text(meanContract);
 																jQuery(this).prev('ul').slideDown(300, function(){});
 														}
 														jQuery(this).toggleClass("mean-clicked");

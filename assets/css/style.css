@@ -263,7 +263,7 @@
     background-size: cover;
     background-position: center center;
     height: 900px;
-    padding: 40px 0 0;
+    /* padding: 40px 0 0; */
 }
 
 .hero-content {
@@ -437,11 +437,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 .booking-button button:hover:before{
     width: 100%;
     left: 0;
-}
-
-.hero-slider-area {
-    padding: 0 55px 0;
-    margin-top: -97px;
 }
 
 .hero-slider-thumb img {
@@ -1615,7 +1610,6 @@ p.footer-desc {
 
 .style-two .top-info ul li {
     display: inline-block;
-    margin-right: 35px;
     font-size: 16px;
     color: #ffffff;
     font-weight: 400;
@@ -1678,7 +1672,25 @@ p.footer-desc {
     background-position: center center;
     height: 750px;
     padding: 0 0 102px;
-    margin: 0 122px 0;
+    /* margin: 0 122px 0; */
+}
+.style-two.hero-area-one {
+    background: url(../images/slider/brand-zone-slider-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 750px;
+    padding: 0 0 102px;
+    /* margin: 0 122px 0; */
+}
+.style-two.hero-area-two {
+    background: url(../images/slider/brand-zone-slider-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 750px;
+    padding: 0 0 102px;
+    /* margin: 0 122px 0; */
 }
 
 .style-two .hero-content h4 {
@@ -5324,4 +5336,9 @@ ul.social-box li a:hover {
 }
 .nav-active{
     color: var(--primary-color);
+}
+.mobile-nav-logo{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
 }

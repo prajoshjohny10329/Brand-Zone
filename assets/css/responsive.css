@@ -73,9 +73,6 @@
     padding: 17px 11px 1px;
 }
 
-.style-two.hero-area {
-    margin: 0 27px 0;
-}
 
 
 
@@ -243,10 +240,6 @@
 /*home Two*/
 .top-area.style-two {
     padding: 17px 11px 1px;
-}
-
-.style-two.hero-area {
-    margin: 0 27px 0;
 }
 
 .style-two .about-thumb {
@@ -453,10 +446,6 @@
     padding: 17px 11px 1px;
 }
 
-.style-two.hero-area {
-    margin: 0 27px 0;
-}
-
 .style-two .about-thumb {
     left: -95px;
 }
@@ -514,9 +503,6 @@
 }
 .booking-button {
     right: 7px;
-}
-.hero-slider-area {
-    margin-top: 0;
 }
 .hero-content h1 {
     font-size: 48px;
@@ -774,9 +760,6 @@ p.place-desc {
     margin-right: 9px;
 }
 
-.style-two.hero-area {
-    margin: 0 27px 0;
-}
 
 .style-two .about-thumb {
     left: -167px;
@@ -855,10 +838,7 @@ p.place-desc {
     height: 670px;
     padding: 107px 0 0;
 }
-.hero-slider-area {
-    padding: 0 25px 0;
-    margin-top: -5px;
-}
+
 .booking-input-box {
     width: 33%;
     margin-bottom: 7px;
@@ -1234,10 +1214,6 @@ h4.cleandear-content {
 .hero-area {
     height: 670px;
     padding: 97px 0 0;
-}
-.hero-slider-area {
-    padding: 0 25px 0;
-    margin-top: -5px;
 }
 .hero-area .row.add-bg.align-items-center {
     padding: 35px 15px 93px;
@@ -1681,10 +1657,6 @@ h4.cleandear-content {
 .hero-area {
     height: 670px;
     padding: 100px 0 0;
-}
-.hero-slider-area {
-    padding: 0 0 0;
-    margin-top: -5px;
 }
 .hero-area .row.add-bg.align-items-center {
     padding: 35px 15px 93px;
@@ -2179,10 +2151,6 @@ h4.cleandear-content {
 .hero-area {
     height: 670px;
     padding: 102px 0 0;
-}
-.hero-slider-area {
-    padding: 0 0 0;
-    margin-top: -5px;
 }
 .hero-area .row.add-bg.align-items-center {
     padding: 35px 15px 93px;
