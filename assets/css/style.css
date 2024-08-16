@@ -2881,7 +2881,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
    <!--Brand Zone About Area Css Inner Pages-->
 =======================================---*/
 .about-area.inner-style {
-    padding: 109px 0 120px;
+    padding: 109px 0 10px;
 }
 
 .inner-style .about-right {
