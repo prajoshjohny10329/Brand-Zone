@@ -726,7 +726,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 ==================================---*/
 
 .fecilities-area {
-    background: url(../images/home-1/facilities-bg.png);
+    background: url(../images/gallery/1.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -2560,19 +2560,19 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 <!-- =====================================-->
 <!-- Brand Zone Text Brand Section Css Home Two  -->
 <!-- =====================================-->*/
-.restu-text-section {
+.brand-text-section {
     position: relative;
-    background: var(--secondary-color);
+    background: var(--white-color);
     z-index: 1;
-    padding: 104px 0 97px;
+    padding: 40px 0px;
 }
 
-.restu-text-section .inner-container {
+.brand-text-section .inner-container {
     max-width: 1812px;
     margin: 0 auto;
 }
 
-.restu-text-section .marquee {
+.brand-text-section .marquee {
     position: relative;
     --duration: 30s;
     --gap: 0px;
@@ -2587,7 +2587,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     gap:0px;
 }
 
-.restu-text-section .marquee-block {
+.brand-text-section .marquee-block {
     -ms-flex-negative: 0;
     flex-shrink: 0;
     display: -webkit-box;
@@ -2604,25 +2604,25 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     animation: scroll 30s linear infinite;
 }
 
-.restu-text-section .marquee-block .content-box {
+.brand-text-section .marquee-block .content-box {
     position: relative;
     margin-right: 0px;
     padding: 7px 0 0;
 }
 
-.restu-text-section .marquee-block .content-box:last-child {
+.brand-text-section .marquee-block .content-box:last-child {
     margin-right:0px;
 }
 
-.restu-text-section .marquee-block .content-box:last-child::before {
+.brand-text-section .marquee-block .content-box:last-child::before {
     display: none;
 }
 
-.restu-text-section .marquee-block .content-box .title{
+.brand-text-section .marquee-block .content-box .title{
     margin:0;
 }
 
-.restu-text-section .marquee-block .content-box h6.title {
+.brand-text-section .marquee-block .content-box h6.title {
     display: inline-block;
     padding: 0 48px;
     opacity: 0.702;
@@ -2634,7 +2634,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     font-family: var(--fonts-title);
 }
 
-.restu-text-section .marquee-block .content-box h6.title img {
+.brand-text-section .marquee-block .content-box h6.title img {
     position: relative;
     left: -49px;
     top: -6px;
@@ -5389,3 +5389,9 @@ ul.social-box li a:hover {
   }
 
   /* bouncing logo end  */
+
+  /* scroll brand start  */
+
+.scroll-brand{
+    width: 200px;
+}
