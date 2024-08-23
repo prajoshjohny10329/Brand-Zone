@@ -59,7 +59,7 @@
     line-height: 46px;
     color: #ffffff;
     font-weight: 400;
-    font-family: "Lora";
+    font-family: 'Lato', sans-serif;
     text-transform: uppercase;
     padding: 25px 0;
     transition: 0.5s;
@@ -244,7 +244,7 @@
     width: 100%;
     -webkit-box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
     box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
-    background: #151515 !important;
+    background: #000 !important;
     transition: 0.5s;
     z-index: 999 !important;
     -webkit-animation: 300ms running fadeInDown;
@@ -359,7 +359,7 @@
     line-height: 14px;
     color: #acacac;
     font-weight: 400;
-    font-family: "Lora";
+    font-family: 'Lato', sans-serif;
     margin-left: 3px;
 }
 
@@ -392,7 +392,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .booking-input-box option {
     color: #222;
-    font-family: "Lora";
+    font-family: 'Lato', sans-serif;
     font-size: 16px !important;
     display: inline-block;
 }
@@ -1618,7 +1618,7 @@ p.footer-desc {
     font-size: 16px;
     color: #ffffff;
     font-weight: 400;
-    font-family: "Lora";
+    font-family: 'Lato', sans-serif;
 }
 .style-two .top-info ul li a {
     display: inline-block;
@@ -1626,7 +1626,7 @@ p.footer-desc {
     font-size: 16px;
     color: #ffffff;
     font-weight: 400;
-    font-family: "Lora";
+    font-family: 'Lato', sans-serif;
 }
 
 .style-two .top-info ul li i {
@@ -1648,7 +1648,7 @@ p.footer-desc {
     font-size: 16px;
     color: #ffffff;
     font-weight: 400;
-    font-family: var(--fonts-body);
+    font-family: 'Lato', sans-serif;
 }
 
 .style-two .top-social-icon ul li i {
@@ -1811,7 +1811,7 @@ p.footer-desc {
     line-height: 14px;
     color: #acacac;
     font-weight: 400;
-    font-family: "Lora";
+    font-family: 'Lato', sans-serif;
     margin-left: 3px;
 }
 
@@ -1844,7 +1844,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .booking-input-box option {
     color: #222;
-    font-family: "Lora";
+    font-family: 'Lato', sans-serif;
     font-size: 16px !important;
     display: inline-block;
 }
@@ -3174,7 +3174,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     font-size: 14px;
     color: #ffffff;
     font-weight: 400;
-    font-family: "Lora";
+    font-family: 'Lato', sans-serif;
     text-transform: uppercase;
     padding-right: 18px;
     position: relative;
@@ -3953,7 +3953,7 @@ h4.cleandear-content {
 .txtra-title h4 {
     color: #1e1e1e;
     font-weight: 400;
-    font-family: "Lora";
+    font-family: 'Lato', sans-serif;
     font-size: 14px;
     margin: 0;
 }
@@ -3963,7 +3963,7 @@ h4.cleandear-content {
     line-height: 26px;
     color: #1e1e1e;
     font-weight: 400;
-    font-family: "Lora";
+    font-family: 'Lato', sans-serif;
     margin-right: 14px;
 }
 
@@ -5273,7 +5273,7 @@ span.flaticon-multiply i {
 }
 
 .xs-bg-black {
-    background-color:var(--primary-color);
+    background-color:#000;
 }
 
 /*html css*/
