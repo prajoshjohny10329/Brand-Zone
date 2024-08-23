@@ -1884,7 +1884,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
    <!-- Brand Zone About Area Css Style Two -->
 =======================================---*/
 .about-area.style-two {
-    background: #151515;
+    background: #ffffff;
     padding: 192px 0 20px;
 }
 
@@ -1893,11 +1893,11 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .about-area.style-two .section-title h1 {
-    color: #fff;
+    color: #000000;
 }
 
 .style-two p.section-desc-2 {
-    color: #acacac;
+    color: #000000;
     width: 92%;
     margin: 25px 0 0;
 }
@@ -1984,11 +1984,11 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .style-two .about-author-content h4 {
-    color: #ffffff;
+    color: #000000;
 }
 
 .style-two .about-author-content p {
-    color: #acacac;
+    color: #787777;
 }
 
 .style-two .about-author-singthure {
