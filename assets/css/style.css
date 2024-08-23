@@ -2125,7 +2125,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 =======================================---*/
 
 .room-area.style-two {
-    background: #1c1c1c;
+    background: #000;
     padding: 117px 0 118px;
 }
 
@@ -5350,6 +5350,7 @@ ul.social-box li a:hover {
   	display: flex;
 	justify-content: center;
 	align-items: center;
+    padding: 20px 0px;
 }
 
 .bouncing-logo {
