@@ -40,7 +40,8 @@
 .header-area {
     padding: 0 101px;
     position: relative;
-    background: #151515;
+    z-index: 2;
+    background: transparent;
 }
 
 .header-menu {
@@ -264,11 +265,13 @@
     background-position: center center;
     /* height: 900px; */
     /* padding: 40px 0 0; */
+    margin-top: -155px;
 }
 
 .hero-content {
     text-align: center;
     position: relative;
+    margin-top: 260px;
 }
 
 .hero-content h1 {
@@ -446,7 +449,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 .hero-slider-area .owl-dots {
     text-align: center;
     position: relative;
-    top: -43px;
+    top: -100px;
 }
 
 .hero-slider-area .owl-dot {
@@ -1599,8 +1602,10 @@ p.footer-desc {
    <!-- Brand Zone Top Area Css Style Two -->
 =======================================---*/
 .top-area.style-two {
-    background: var(--secondary-color);
+    background: transparent;
     padding: 17px 96px 1px;
+    position: relative;
+    z-index: 2;
 }
 
 .top-area.style-two .row.add-border {
@@ -1685,6 +1690,15 @@ p.footer-desc {
 }
 .style-two.hero-area-two {
     background: url(../images/slider/brand-zone-slider-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 750px;
+    padding: 0 0 102px;
+    /* margin: 0 122px 0; */
+}
+.style-two.hero-area-three {
+    background: url(../images/slider/brand-zone-slider-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1885,7 +1899,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 =======================================---*/
 .about-area.style-two {
     background: #ffffff;
-    padding: 192px 0 20px;
+    padding: 100px 0px;
 }
 
 .about-area.style-two .section-title {
@@ -2136,7 +2150,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .style-two.room-area .section-title h1 {
-    color: #fff;
+    color: #000000;
 }
 
 .style-two .single-room-box {
@@ -2321,7 +2335,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
    <!-- Brand Zone Hotle Fecilities Area Css -->
 =======================================---*/
 .hotel-fecilities {
-    background: var(--secondary-color);
+    background: var(--white-color);
     padding: 120px 0 39px;
 }
 
@@ -2356,10 +2370,14 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .hotel-fecilities-content h1 {
     font-size: 40px;
-    color: #ffffff;
+    color: #000;
     font-weight: 600;
     margin: 16px 0 62px;
     position: relative;
+}
+.hotel-fecilities-content h1:hover {
+    color: var(--primary-color);
+    
 }
 
 .hotel-fecilities-content h1:before {
@@ -2373,7 +2391,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .hotel-fecilities-content p {
-    color: #acacac;
+    color: #4e4e4e;
     width: 82%;
     margin: 66px 0 0;
 }
@@ -2385,11 +2403,12 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     line-height: 55px;
     border-radius: 28px;
     border: 2px solid rgba(255,255,255,0.1);
-    color: rgba(255,255,255,0.7);
+    color: rgb(255, 255, 255);
     text-align: center;
     transform: rotate(-45deg);
     margin-top: 28px;
     transition: 0.5s;
+    background-color: black;
 }
 
 .hotel-fecilities-content a i:hover{
@@ -2399,7 +2418,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .hotel-fecilities-thumb {
     position: relative;
-    left: 106px;
+    padding: 0px 30px;
 }
 
 .hotel-fecilities-box.two {
@@ -2788,6 +2807,13 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     background-position: center center;
     padding: 157px 0 172px;
 }
+.breadcumb-area-e {
+    background: url(../images/products/electrical/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 157px 0 172px;
+}
 
 .breadcumb-content {
     text-align: center;
@@ -2838,7 +2864,8 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .inner-style .header-menu ul li a {
-    color: #686868;
+    color: #000000;
+    font-weight: 600;
 }
 
 .inner-style .header-sidbar i {
@@ -5354,7 +5381,7 @@ ul.social-box li a:hover {
 }
 
 .bouncing-logo {
-    width: 100px; /* Adjust as needed */
+    width: 140px; /* Adjust as needed */
     height: auto; /* Maintain aspect ratio */
     animation: icon-bounce  2s infinite;
 }
