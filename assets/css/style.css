@@ -226,7 +226,7 @@
     height: 0;
     left: 0;
     bottom: 0;
-    background:var(--primary-color);
+    background: #bcb9b9;
     z-index: -1;
     transition: 0.5s;
 }
@@ -807,9 +807,9 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .single-service-box {
     text-align: center;
-    background: #f7f6f2;
+    background: #ffff;
     padding: 47px 32px 38px;
-    position: relative;
+    /* position: relative; */
     z-index: 1;
     transition: 0.5s;
 }
@@ -842,16 +842,28 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     line-height: 86px;
     margin: auto;
 }
+.service-content{
+    padding: 0px 20px;
+}
 
 .service-content h4 {
-    font-size: 20px;
-    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
     color: #000000;
-    margin: 24px 0 20px;
+    text-transform: uppercase;
+    letter-spacing: 0px !important;
+    font-size: revert-layer;
+    line-height: 26px;
 }
 
 .service-content p {
-    margin: 0 0 37px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: inherit;
+    color: #323232;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-size: 17px;
+    padding: 10px 0px;
 }
 
 .service-button a {
@@ -2915,7 +2927,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
    <!--Brand Zone About Area Css Inner Pages-->
 =======================================---*/
 .about-area.inner-style {
-    padding: 109px 0 10px;
+    padding: 50px 30px;
 }
 
 .inner-style .about-right {
@@ -5362,6 +5374,24 @@ ul.social-box li a:hover {
 }
 
 /* Edited */
+.heading{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 0px !important;
+    font-size: revert-layer;
+    line-height: 26px;
+}
+.sub-heading{
+    font-family: 'Open Sans', sans-serif;
+    text-transform: inherit;
+    color: #323232;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-size: 17px;
+    padding: 20px 10px;
+}
 .header-logo-img{
     width: 270px;
     margin-left: 25px;
@@ -5431,6 +5461,12 @@ ul.social-box li a:hover {
 
   /* bouncing logo end  */
 
+  /* whose are client */
+  .whose-are-clients{
+    background-color: #ffffff;
+    padding: 50px 30px;
+  }
+
   /* scroll brand start  */
 
 .scroll-brand{
@@ -5439,7 +5475,7 @@ ul.social-box li a:hover {
 .product-display{
     height: auto;
     background-color: #eaeaea;
-    padding: 40px 30px;
+    padding: 50px 30px;
 }
 .single-product-img{
     height: 290px;
