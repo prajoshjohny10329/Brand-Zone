@@ -449,7 +449,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 .hero-slider-area .owl-dots {
     text-align: center;
     position: relative;
-    top: -100px;
+    top: -90px;
 }
 
 .hero-slider-area .owl-dot {
@@ -5366,6 +5366,11 @@ ul.social-box li a:hover {
     width: 270px;
     margin-left: 25px;
 }
+.header-logo-img-second{
+    width: 270px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
 .sidebar-logo-img{
     width: 240px;
 }
@@ -5475,6 +5480,16 @@ ul.social-box li a:hover {
 
 
 /* Electrical product links */
+
+.electrical-product-hero{
+    background: url(https://www.goldmedalindia.com/img/slider-home/slider_4.jpg
+    );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 500px;
+}
 
 .electrical-product-1{
     background-image: url('https://www.goldmedalindia.com/img/home/air-modular-range.jpg')
