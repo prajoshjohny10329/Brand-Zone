@@ -1310,8 +1310,11 @@ p.blog-desc {
 .single-thumb img {
     width: 100%;
     transition: 0.5s;
+    height: 240px;
 }
-
+.single-blog-box{
+    box-shadow: 1px 3px 10px 0px #d9d9d9;
+}
 .single-blog-box:hover .single-thumb img{
     transform: scale(1.2);
 }
@@ -2808,7 +2811,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     padding: 157px 0 172px;
 }
 .breadcumb-area-e {
-    background: url(../images/products/electrical/1.jpg);
+    background: url(../images/products/electrical/2.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -2836,6 +2839,10 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 .breadcumb-content ul li a {
     display: inline-block;
     color: var(--primary-color);
+}
+.breadcumb-content ul li a:hover {
+    color: var(--white-color);
+    font-weight: 600;
 }
 
 /*header-inner-style*/
@@ -2865,7 +2872,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .inner-style .header-menu ul li a {
     color: #000000;
-    font-weight: 600;
+    /* font-weight: 600; */
 }
 
 .inner-style .header-sidbar i {
@@ -5424,3 +5431,82 @@ ul.social-box li a:hover {
 .scroll-brand{
     width: 200px;
 }
+.product-display{
+    height: auto;
+    background-color: #eaeaea;
+    padding: 40px 30px;
+}
+.single-product-img{
+    height: 290px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.single-product-text{
+    height: 290px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+.single-product-text:hover{
+    filter: invert(1);
+}
+.single-product-content{
+    padding: 20px;
+}
+.portfolio-title{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #323232;
+    text-transform: uppercase;
+    letter-spacing: 0px !important;
+    font-size: revert-layer;
+    line-height: 26px;
+}
+.project-category{
+    font-family: 'Open Sans', sans-serif;
+    text-transform: inherit;
+    color: #323232;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+
+/* Electrical product links */
+
+.electrical-product-1{
+    background-image: url('https://www.goldmedalindia.com/img/home/air-modular-range.jpg')
+}
+.electrical-product-2{
+    background-image: url('https://www.goldmedalindia.com/img/home/fan.jpg')
+}
+.electrical-product-3{
+    background-image: url('https://www.goldmedalindia.com/img/home/led-lightning.jpg')
+}
+.electrical-product-4{
+    background-image: url('https://www.goldmedalindia.com/img/home/wires-and-cables.jpg')
+}
+.electrical-product-5{
+    background-image: url('https://www.goldmedalindia.com/img/home/mcb-and-dp.jpg')
+}
+.electrical-product-6{
+    background-image: url('https://www.goldmedalindia.com/img/home/nixon-modular.jpg')
+}
+.electrical-product-7{
+    background-image: url('https://www.goldmedalindia.com/img/home/accessories.jpg')
+}
+.electrical-product-8{
+    background-image: url('https://www.goldmedalindia.com/img/home/entertainment.jpg')
+}
+.electrical-product-9{
+    background-image: url('https://www.goldmedalindia.com/img/home/doorbell.jpg')
+}
+.electrical-product-10{
+    background-image: url('https://www.goldmedalindia.com/img/home/goldmedal-remote.jpg')
+}
+.electrical-product-11{
+    background-image: url('https://www.goldmedalindia.com/img/home/i-touch-series.jpg')
+}
+
