@@ -5380,7 +5380,7 @@ ul.social-box li a:hover {
     color: #000000;
     text-transform: uppercase;
     letter-spacing: 0px !important;
-    font-size: revert-layer;
+    font-size: xx-large;
     line-height: 26px;
 }
 .sub-heading{
@@ -5420,7 +5420,7 @@ ul.social-box li a:hover {
   	display: flex;
 	justify-content: center;
 	align-items: center;
-    padding: 20px 0px;
+    padding: 5px 0px;
 }
 
 .bouncing-logo {
@@ -5514,6 +5514,57 @@ ul.social-box li a:hover {
     font-size: 17px;
 }
 
+/* brand section  */
+.brand-display{
+    height: auto;
+    background-color: #ffffff;
+    padding: 50px 30px;
+}
+
+.single-brand-img{
+    padding: 0px 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 165px;
+}
+.read-more{
+    display: none;
+    background: #ffffffe0;
+    background-color: rgba(255, 255, 255, 0.88);
+    color: black;
+    font-size: x-large;
+    padding: 7px 21px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: 5px 3px 0px #f6f6f6;
+    transition: 100ms;
+    padding: 7px 19px;
+}
+.read-more:hover{
+    font-weight: 600;
+}
+.single-brand-img:hover{
+    .read-more{
+        display: block;
+    }
+}
+
+/* Start brand single page  */
+.brands-section{
+    width: 100%;
+    height: 100vh;
+}
+#brand-iframe{
+    width: 100%;
+    height: 100vh;
+}
+/* End brand single page  */
+
 
 /* Electrical product links */
 
@@ -5559,5 +5610,18 @@ ul.social-box li a:hover {
 }
 .electrical-product-11{
     background-image: url('https://www.goldmedalindia.com/img/home/i-touch-series.jpg')
+}
+ /* electrical brand sections */
+.electrical-brand-1{
+    background-image: url('/assets/images/brands/1-gold-medal.png')
+}
+.electrical-brand-2{
+    background-image: url('/assets/images/brands/1-legrand.png')
+}
+.electrical-brand-3{
+    background-image: url('/assets/images/brands/1-Lt1.png')
+}
+.electrical-brand-4{
+    background-image: url('/assets/images/brands/1-Schneider-Electric-Logo.png')
 }
 
