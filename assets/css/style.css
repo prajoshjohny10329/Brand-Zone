@@ -798,7 +798,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .service-area .section-title h1 {
-    color: #ffff;
+    color: #000000;
 }
 
 .service-area .row.add-margin {
@@ -2050,21 +2050,22 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     justify-content: space-between;
     margin-bottom: 31px;
     border-top: 1px solid rgba(255,255,255,0.10196078431372549);
-    padding-top: 23px;
+    background: white;
+    padding: 17px 0px;
 }
 
 .style-two .servcie-item-content {
     display: flex;
     align-items: center;
     gap: 42px;
+    padding: 0px 30px;
 }
 
 .style-two .service-item-numbar h1 {
-    opacity: 0.102;
     font-size: 60px;
     line-height: 50px;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #000;
     font-family: var(--fonts-body);
     transition: 0.5s;
 }
@@ -2078,16 +2079,16 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 .style-two .service-item-title h1 {
     font-size: 32px;
     line-height: 50px;
-    color: #ffffff;
+    color: #000;
     font-weight: 600;
     margin: 0;
 }
 
 .style-two .service-item-title h4 {
-    font-size: 16px;
-    color: var(--primary-color);
-    font-weight: 400;
-    font-family: var(--fonts-body);
+    font-size: 17px;
+    color: #777;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
     margin: 4px 0 0;
 }
 
@@ -2107,7 +2108,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .style-two .single-service-item-box:hover .service-item-button i{
-    background:var(--primary-color);
+    background:#000;
 }
 
 .style-two .service-thumb {
@@ -5374,6 +5375,12 @@ ul.social-box li a:hover {
 }
 
 /* Edited */
+.first-section{
+    background-color: #fff;
+}
+.second-section{
+    background-color: #f8f8f8;
+}
 .heading{
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
