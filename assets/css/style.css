@@ -1923,12 +1923,16 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .about-area.style-two .section-title h1 {
     color: #000000;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 .style-two p.section-desc-2 {
     color: #000000;
     width: 92%;
     margin: 25px 0 0;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 .style-two .about-thumb {
@@ -1947,6 +1951,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     font-weight: 500;
     display: inline-block;
     margin: 0;
+    
 }
 
 .style-two .about-counter-content span {
@@ -1958,7 +1963,9 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .style-two .about-counter-content p {
     margin-top: 10px;
-    color: #acacac;
+    color: #1a1a1a;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 .style-two .animation-bar {

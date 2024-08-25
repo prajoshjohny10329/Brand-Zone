@@ -242,9 +242,6 @@
     padding: 17px 11px 1px;
 }
 
-.style-two .about-thumb {
-    left: -95px;
-}
 
 .hotel-fecilities-thumb {
     left: 67px;
@@ -446,9 +443,6 @@
     padding: 17px 11px 1px;
 }
 
-.style-two .about-thumb {
-    left: -95px;
-}
 
 .hotel-fecilities-thumb {
     left: 67px;
@@ -758,11 +752,6 @@ p.place-desc {
 
 .style-two .top-info ul li i {
     margin-right: 9px;
-}
-
-
-.style-two .about-thumb {
-    left: -167px;
 }
 
 .style-two .about-conuter-box {
