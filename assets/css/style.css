@@ -5593,23 +5593,30 @@ ul.social-box li a:hover {
     box-shadow: 0px 2px 9px 0px #00000061;
     padding: 23px 10px 0px;
     border-radius: 4px;
+    background-color: #fff;
+    transition: 300ms;
+}
+.why-choose-content:hover{
+    filter: invert();
+    margin-top: -10px;
 }
 
 .choose-heading{
     font-family: 'Open Sans', sans-serif;
-    font-weight: 600;
-    color: #000000;
-    text-transform: uppercase;
-    letter-spacing: 0px !important;
-    font-size: 15px;
-    padding-top: 20px;
-    line-height: 26px;
-    text-align: center;
+  font-weight: 600;
+  color: #000000;
+  text-transform: uppercase;
+  letter-spacing: 0px !important;
+  font-size: 20px;
+  padding-top: 20px;
+  line-height: 23px;
+  text-align: center;
+  height: 70px;
 }
 .choose-sub-heading{
     font-family: 'Open Sans', sans-serif;
     text-transform: inherit;
-    color: #070707;
+    color: #737272;
     letter-spacing: 0px;
     font-weight: 400;
     font-size: 14px;
