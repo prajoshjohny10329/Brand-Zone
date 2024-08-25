@@ -5565,6 +5565,46 @@ ul.social-box li a:hover {
 }
 /* End brand single page  */
 
+/* Start why choose us  */
+
+.why-choose-single-box{
+    display: flex;
+    justify-content: center;
+}
+.why-choose-icon{
+    display: flex;
+    justify-content: center;
+}
+.why-choose-content{
+    box-shadow: 0px 2px 9px 0px #00000061;
+    padding: 23px 10px 0px;
+    border-radius: 4px;
+}
+
+.choose-heading{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 0px !important;
+    font-size: 15px;
+    padding-top: 20px;
+    line-height: 26px;
+    text-align: center;
+}
+.choose-sub-heading{
+    font-family: 'Open Sans', sans-serif;
+    text-transform: inherit;
+    color: #070707;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 4px;
+}
+
+/* End why choose us  */
+
 
 /* Electrical product links */
 
