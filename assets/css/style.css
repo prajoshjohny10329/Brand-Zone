@@ -5584,6 +5584,7 @@ ul.social-box li a:hover {
 .why-choose-single-box{
     display: flex;
     justify-content: center;
+    padding: 12px;
 }
 .why-choose-icon{
     display: flex;
@@ -5608,10 +5609,9 @@ ul.social-box li a:hover {
   text-transform: uppercase;
   letter-spacing: 0px !important;
   font-size: 20px;
-  padding-top: 20px;
   line-height: 23px;
   text-align: center;
-  height: 70px;
+  padding: 20px 0px 10px;
 }
 .choose-sub-heading{
     font-family: 'Open Sans', sans-serif;
