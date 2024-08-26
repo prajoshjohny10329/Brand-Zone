@@ -144,7 +144,7 @@
     color: #ffffff;
     font-weight: 500;
     font-family: var(--fonts-title);
-    background: var(--primary-color);
+    background: #e03b32;
     padding: 14px 29px;
     position: relative;
     z-index: 1;
@@ -2899,7 +2899,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .inner-style .header-sidbar i {
     display: inline-block;
-    color: var(--primary-color);
+    color: black;
     font-size: 36px;
     margin-right: 0;
     position: relative;
@@ -2910,7 +2910,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 .inner-style .header-button a {
     border-radius: 2px;
     position: relative;
-    border: 1px solid var(--primary-color);
 }
 
 .inner-style .header-button a:before{
