@@ -153,7 +153,8 @@
 }
 
 .header-button a:hover{
-    color:var(--primary-color);
+    color:#006410;
+    font-weight: 900;
 }
 
 .header-button a:before{
@@ -5388,6 +5389,15 @@ ul.social-box li a:hover {
 }
 .second-section{
     background-color: #f8f8f8;
+}
+.top-whatsapp{
+    padding-right: 10px;
+    font-size: 23px !important;
+    font-weight: bold !important;
+}
+.mobile-font-nav{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400 !important;
 }
 .heading{
     font-family: 'Open Sans', sans-serif;
