@@ -2825,5 +2825,15 @@ h4.cleandear-content {
     .additional-top{
         padding-top: 180px;
     }
-
+}
+@media screen and  (max-width: 1201px){
+    .for-large{
+        display: none !important;
+    }
+    .for-small{
+        display: block !important;
+    } 
+    .header-logo-img{
+        margin-left: -10px;
+    }
 }

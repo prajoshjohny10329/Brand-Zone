@@ -5401,6 +5401,9 @@ ul.social-box li a:hover {
 .my-font-nav{
     font-family: 'Open Sans', sans-serif !important;
 }
+.for-small{
+    display: none !important;
+}
 .side-bar-a{
     list-style: none;
     color: #fff;
