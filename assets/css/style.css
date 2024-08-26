@@ -5399,6 +5399,15 @@ ul.social-box li a:hover {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400 !important;
 }
+.my-font-nav{
+    font-family: 'Open Sans', sans-serif;
+}
+.side-bar-a{
+    list-style: none;
+    color: #fff;
+    padding: 16px 0 0;
+    overflow: hidden;
+}
 .heading{
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
