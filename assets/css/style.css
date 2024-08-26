@@ -1430,7 +1430,11 @@ p.footer-desc {
     display: inline-block;
     font-family: var(--fonts-body);
 }
-
+.footer-phone{
+    color: #fff;
+    display: inline-block;
+    font-family: var(--fonts-body);
+}
 .footer-widget-title h4 {
     font-size: 22px;
     line-height: 38px;
