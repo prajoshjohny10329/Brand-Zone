@@ -5599,6 +5599,14 @@ ul.social-box li a:hover {
     }
 }
 
+.gallery-img{
+    width: 100%;
+}
+.single-room-thumb{
+    background-color: red;
+}
+
+
 /* Start brand single page  */
 .brands-section{
     width: 100%;
