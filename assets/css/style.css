@@ -5686,3 +5686,38 @@ ul.social-box li a:hover {
     background-image: url('/assets/images/brands/1-Schneider-Electric-Logo.png')
 }
 
+/* plumbing image address start  */
+.pump-brand-1{
+    background-image: url('/assets/images/brands/2-crompton.png')
+}
+.pump-brand-2{
+    background-image: url('/assets/images/brands/2-kirloskar.png')
+}
+.pump-brand-3{
+    background-image: url('/assets/images/brands/2-ksb1.png')
+}
+.pump-brand-4{
+    background-image: url('/assets/images/brands/2-v-gurd.png')
+}
+.plumbing-product-1{
+    background-image: url('/assets/images/products/plumbing/2-1.png')
+}
+.plumbing-product-2{
+    background-image: url('/assets/images/products/plumbing/2-2.png')
+}
+.plumbing-product-3{
+    background-image: url('/assets/images/products/plumbing/2-3.png')
+}
+.plumbing-product-4{
+    background-image: url('/assets/images/products/plumbing/2-4.png')
+}
+.plumbing-product-5{
+    background-image: url('/assets/images/products/plumbing/2-5.png')
+}
+.plumbing-product-6{
+    background-image: url('/assets/images/products/plumbing/2-6.png')
+}
+.plumbing-product-7{
+    background-image: url('/assets/images/products/plumbing/2-8.png')
+}
+/* plumbing image address end  */
