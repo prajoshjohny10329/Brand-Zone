@@ -5399,7 +5399,7 @@ ul.social-box li a:hover {
     font-weight: 400 !important;
 }
 .my-font-nav{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif !important;
 }
 .side-bar-a{
     list-style: none;
