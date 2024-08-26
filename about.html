@@ -41,6 +41,7 @@
 	<!-- ScrollCue CSS -->
 	<link rel="stylesheet" href="assets/css/scrollCue.css" type="text/css" media="all">
 	<link rel="stylesheet" href="assets/css/coustome-animation.css" type="text/css" media="all">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.2.0/magnific-popup.min.css" integrity="sha512-lvaVbvmbHhG8cmfivxLRhemYlTT60Ly9Cc35USrpi8/m+Lf/f/T8x9kEIQq47cRj1VQIFuxTxxCcvqiQeQSHjQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<!-- modernizr js -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -355,6 +356,7 @@
 <!-- End Start Brandz Zone whose are clients Area -->
 <!--==================================================-->
 
+
 <!--==================================================-->
 <!-- Start Restu Roome Area -->
 <!--==================================================-->
@@ -363,8 +365,9 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section-title">
-					<h4>Choose Your Room</h4>
-					<h1>Our Comfortable <span>Rooms</span></h1>
+					<h4>Our Shop Display Gallery</h4>
+					<h1 class="heading">Visit Our Showroom In <span>Kottarakkara</span></h1>
+					<p class="sub-heading">Experience the full range of our electrical products in person by visiting our showroom. Our live displays allow you to see and compare different products, making it easier to choose the right solutions for your needs. Whether you’re a contractor, builder, or DIY enthusiast, Brandz Zone has the electrical products and expertise to power your project to success.</p>
 				</div>
 			</div>
 		</div>
@@ -375,21 +378,33 @@
 			   <div class="col-lg-12">
 				    <div class="single-room-box">
 					    <div class="single-room-thumb">
-						   <img src="assets/images/home-1/room-1.png" alt="">
-					    </div>
-				    </div>
-			   </div>			   
-			   <div class="col-lg-12">
-				    <div class="single-room-box">
-					    <div class="single-room-thumb">
-						   <img src="assets/images/home-1/room-2.png" alt="">
+							<a href="assets/images/gallery/04.avif" title="" class="popup-link">
+								<div class="gallery-box">
+									<div class="gallery-img"> <img src="assets/images/gallery/04.avif" class="img-fluid mx-auto d-block gallery-img" alt="work-img"> </div>
+								</div>
+							</a>
 					    </div>
 				    </div>
 			   </div>
 			   	<div class="col-lg-12">
 				    <div class="single-room-box">
 					    <div class="single-room-thumb">
-						   <img src="assets/images/home-1/room-1.png" alt="">
+							<a href="assets/images/gallery/05.avif" title="" class="popup-link">
+								<div class="gallery-box">
+									<div class="gallery-img"> <img src="assets/images/gallery/05.avif" class="img-fluid mx-auto d-block gallery-img" alt="work-img"> </div>
+								</div>
+							</a>
+					    </div>
+				    </div>
+			   </div>
+			   	<div class="col-lg-12">
+				    <div class="single-room-box">
+					    <div class="single-room-thumb">
+							<a href="assets/images/gallery/06.avif" title="" class="popup-link">
+								<div class="gallery-box">
+									<div class="gallery-img"> <img src="assets/images/gallery/06.avif" class="img-fluid mx-auto d-block gallery-img" alt="work-img"> </div>
+								</div>
+							</a>
 					    </div>
 				    </div>
 			   </div>
@@ -552,11 +567,30 @@
 	<!-- barfiller -->
 	<script src="assets/js/jquery.barfiller.js"></script>
 	<!-- barfiller -->
+
 	<script src="assets/js/scrollCue.min.js"></script>
 	<script src="assets/js/gsap.min.js"></script>
 	<script src="assets/js/ScrollTrigger.min.js"></script>
 	<script src="assets/js/SplitText.min.js"></script>
 	<script src="assets/js/text-animation.js"></script>
+	
+	<script>
+		$(document).ready(function() {
+        $('.popup-link').magnificPopup({
+            type: 'image',
+            gallery:{
+                enabled:true
+            },
+            // Navigation options
+            navigation: {
+                enabled: true,
+                // Customize arrow markup
+                prevArrow: '<button class="mfp-arrow mfp-arrow-left"></button>',
+                nextArrow: '<button class="mfp-arrow mfp-arrow-right"></button>'
+            }
+        });
+    });
+	</script>
 
 </body>
 
