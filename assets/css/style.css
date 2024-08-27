@@ -5750,6 +5750,7 @@ ul.social-box li a:hover {
 }
 
 /* plumbing image address start  */
+/* plumbing Brands start  */
 .plumping-brand-1{
     background-image: url('/assets/images/brands/2-crompton.png')
 }
@@ -5765,6 +5766,11 @@ ul.social-box li a:hover {
 .plumping-brand-5{
     background-image: url('/assets/images/brands/2-finolex-pipes.png')
 }
+.plumping-brand-6{
+    background-image: url('/assets/images/brands/2-supreme.png')
+}
+/* End plumbing Brands start  */
+
 
 .plumbing-product-1{
     background-image: url('/assets/images/products/plumbing/2-1.png')
