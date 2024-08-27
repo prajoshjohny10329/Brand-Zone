@@ -5432,7 +5432,7 @@ ul.social-box li a:hover {
     text-transform: uppercase;
     letter-spacing: 0px !important;
     font-size: xx-large;
-    line-height: 26px;
+    line-height: 35px;
 }
 .sub-heading{
     font-family: 'Open Sans', sans-serif;
@@ -5750,18 +5750,22 @@ ul.social-box li a:hover {
 }
 
 /* plumbing image address start  */
-.pump-brand-1{
+.plumping-brand-1{
     background-image: url('/assets/images/brands/2-crompton.png')
 }
-.pump-brand-2{
+.plumping-brand-2{
     background-image: url('/assets/images/brands/2-kirloskar.png')
 }
-.pump-brand-3{
+.plumping-brand-3{
     background-image: url('/assets/images/brands/2-ksb1.png')
 }
-.pump-brand-4{
+.plumping-brand-4{
     background-image: url('/assets/images/brands/2-v-gurd.png')
 }
+.plumping-brand-5{
+    background-image: url('/assets/images/brands/2-finolex-pipes.png')
+}
+
 .plumbing-product-1{
     background-image: url('/assets/images/products/plumbing/2-1.png')
 }

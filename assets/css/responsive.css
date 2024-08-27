@@ -2823,7 +2823,7 @@ h4.cleandear-content {
 /* add new responsive */
 @media screen and  (max-width: 992px){
     .additional-top{
-        padding-top: 180px;
+        padding-top: 180px !important;
     }
 }
 @media screen and  (max-width: 1201px){
