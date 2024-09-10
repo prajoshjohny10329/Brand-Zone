@@ -5857,7 +5857,7 @@ ul.social-box li a:hover {
 
 /* HardWare Barnds End  */
 
-/* Sanitary Products Start  */
+/* HardWare Products Start  */
 .hardware-product-1{
     background-image: url('/assets/images/products/hardware/1.jpg')
 }
@@ -5876,7 +5876,27 @@ ul.social-box li a:hover {
 .hardware-product-6{
     background-image: url('/assets/images/products/hardware/6.jpg')
 }
-/* Sanitary Products End  */
+/* HardWare Products End  */
 
+/* Paint Barnds Start  */
+
+.paint-brand-1{
+    background-image: url('/assets/images/brands/5-1.png')
+}
+.paint-brand-2{
+    background-image: url('/assets/images/brands/5-2.png')
+}
+.paint-brand-3{
+    background-image: url('/assets/images/brands/5-3.png')
+}
+.paint-brand-4{
+    background-image: url('/assets/images/brands/5-4.png')
+}
+.paint-brand-5{
+    background-image: url('/assets/images/brands/5-5.png')
+}
+
+
+/* Paint Barnds End  */
 
 
