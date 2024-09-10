@@ -5534,7 +5534,7 @@ ul.social-box li a:hover {
 }
 .product-display{
     height: auto;
-    background-color: #f8f8f8;
+    background-color: #fff;
     padding: 50px 30px;
 }
 .single-product-img{
@@ -5548,7 +5548,7 @@ ul.social-box li a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #fff;
+    background-color: #f0f0f0;
 }
 .single-product-text:hover{
     filter: invert(1);
@@ -5815,7 +5815,22 @@ ul.social-box li a:hover {
 
 /* Sanitary Products Start  */
 .sanitary-product-1{
-    background-image: url('/assets/images/products/sanitary/3-1.webp')
+    background-image: url('/assets/images/products/sanitary/3-1.JPG')
+}
+.sanitary-product-2{
+    background-image: url('/assets/images/products/sanitary/3-2.jpg')
+}
+.sanitary-product-3{
+    background-image: url('/assets/images/products/sanitary/3-3.jpg')
+}
+.sanitary-product-4{
+    background-image: url('/assets/images/products/sanitary/3-4.jpg')
+}
+.sanitary-product-5{
+    background-image: url('/assets/images/products/sanitary/3-5.jpg')
+}
+.sanitary-product-6{
+    background-image: url('/assets/images/products/sanitary/3-6.webp')
 }
 
 
