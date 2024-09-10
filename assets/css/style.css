@@ -5879,7 +5879,6 @@ ul.social-box li a:hover {
 /* HardWare Products End  */
 
 /* Paint Barnds Start  */
-
 .paint-brand-1{
     background-image: url('/assets/images/brands/5-1.png')
 }
@@ -5895,8 +5894,26 @@ ul.social-box li a:hover {
 .paint-brand-5{
     background-image: url('/assets/images/brands/5-5.png')
 }
-
-
 /* Paint Barnds End  */
 
+/* HardWare Products Start  */
+.paint-product-1{
+    background-image: url('/assets/images/products/paint/1.jpeg')
+}
+.paint-product-2{
+    background-image: url('/assets/images/products/paint/2.jpg')
+}
+.paint-product-3{
+    background-image: url('/assets/images/products/paint/3.jpg')
+}
+.paint-product-4{
+    background-image: url('/assets/images/products/paint/4.jpeg')
+}
+.paint-product-5{
+    background-image: url('/assets/images/products/paint/5.jpg')
+}
+.paint-product-6{
+    background-image: url('/assets/images/products/paint/6.jpg')
+}
+/* HardWare Products End  */
 
