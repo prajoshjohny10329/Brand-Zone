@@ -23,7 +23,7 @@ html {
   --white-color: #fff;
   --fonts-title:'Cormorant Garamond', serif;
   --fonts-body:'Lora', serif;
-  --fonts-subtitle:"Carattere", cursive;
+  --fonts-subtitle:'Open Sans', sans-serif;
 }
 
 body {
