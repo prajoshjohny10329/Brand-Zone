@@ -2953,7 +2953,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .inner-style .section-title p {
     width: 94%;
-    margin: 26px 0 0;
+    /* margin: 26px 0 0; */
 }
 
 .inner-style p.about-inner-desc {
