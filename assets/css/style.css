@@ -5832,9 +5832,30 @@ ul.social-box li a:hover {
 .sanitary-product-6{
     background-image: url('/assets/images/products/sanitary/3-6.webp')
 }
-
-
 /* Sanitary Products End  */
+
+/* HardWare Barnds Start  */
+
+.hardware-brand-1{
+    background-image: url('/assets/images/brands/4-1.png')
+}
+.hardware-brand-2{
+    background-image: url('/assets/images/brands/4-2.png')
+}
+.hardware-brand-3{
+    background-image: url('/assets/images/brands/4-3.png')
+}
+.hardware-brand-4{
+    background-image: url('/assets/images/brands/4-4.png')
+}
+.hardware-brand-5{
+    background-image: url('/assets/images/brands/4-5.png')
+}
+.hardware-brand-6{
+    background-image: url('/assets/images/brands/4-6.png')
+}
+
+/* HardWare Barnds End  */
 
 
 
