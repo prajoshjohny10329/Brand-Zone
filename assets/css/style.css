@@ -5679,6 +5679,18 @@ ul.social-box li a:hover {
 }
 
 /* End why choose us  */
+/* start visit our shop section  */
+.visit-shop-head{
+    color: var(--primary-color);
+}
+.visit-shop-text{
+    font-family: 'Open Sans', sans-serif;
+    text-transform: inherit;
+    color: #464646;
+    font-weight: 400;
+    font-size: 17px;
+    padding-top: 13px;
+}
 
 
 /* Electrical product links */
