@@ -6112,6 +6112,9 @@ ul.social-box li a:hover {
   }
   .card-title-test{
 	margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    text-transform: uppercase;
   }
   .card-text-test{
     font-family: 'Open Sans', sans-serif;
