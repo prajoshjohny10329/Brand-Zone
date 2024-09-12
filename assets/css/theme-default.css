@@ -24,6 +24,14 @@ html {
   --fonts-title:'Cormorant Garamond', serif;
   --fonts-body:'Lora', serif;
   --fonts-subtitle:'Open Sans', sans-serif;
+  /* new colors  */
+  --theme-color: #4BAF47;
+  --title-color: #24231D;
+  --border-color: #E3E3E3;
+  --main-container: 1296px;
+
+
+
 }
 
 body {
