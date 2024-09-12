@@ -1950,11 +1950,13 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .style-two .about-counter-content h4 {
-    font-size: 70px;
+    font-size: 50px;
     color: var(--primary-color);
     font-weight: 500;
     display: inline-block;
     margin: 0;
+    font-family: 'Open Sans', sans-serif !important;
+
     
 }
 
