@@ -2674,7 +2674,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 .brand-text-section .marquee-block .content-box h6.title {
     display: inline-block;
     padding: 0 48px;
-    opacity: 0.702;
     font-size: 40px;
     line-height: 26px;
     color: #ffffff;
