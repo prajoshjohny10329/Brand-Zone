@@ -5538,10 +5538,17 @@ ul.social-box li a:hover {
     background-color: #fff;
     padding: 50px 30px;
 }
+.single-product-div{
+    box-shadow: 6px 4px 10px;
+    margin: 10px 5px;
+}
 .single-product-img{
     height: 290px;
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
+}
+.img-cover{
     background-size: cover;
 }
 .single-product-img-contain{
@@ -5555,7 +5562,7 @@ ul.social-box li a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
 }
 .single-product-text:hover{
     filter: invert(1);
@@ -5580,6 +5587,9 @@ ul.social-box li a:hover {
     font-weight: 400;
     font-size: 17px;
 }
+
+
+
 
 /* brand section  */
 .brand-display{
