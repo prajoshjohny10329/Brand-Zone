@@ -2940,7 +2940,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
    <!--Brand Zone About Area Css Inner Pages-->
 =======================================---*/
 .about-area.inner-style {
-    padding: 50px 30px 0px;
+    padding: 50px 100px !important;
 }
 
 .inner-style .about-right {
@@ -5887,6 +5887,9 @@ ul.social-box li a:hover {
     font-family: 'Open Sans', sans-serif;
     margin: 20px 0px !important;
     
+  }
+  .main-parent-section{
+    padding: 50px 30px;
   }
 
 
