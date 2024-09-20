@@ -5529,10 +5529,10 @@ ul.social-box li a:hover {
   /* bouncing logo end  */
 
   /* whose are client */
-  .whose-are-clients{
+.whose-are-clients{
     background-color: #ffffff;
     padding: 50px 30px;
-  }
+}
 
   /* scroll brand start  */
 
@@ -5592,6 +5592,10 @@ ul.social-box li a:hover {
     letter-spacing: 0px;
     font-weight: 400;
     font-size: 17px;
+}
+
+.hover-primary:hover{
+    color: var(--primary-color) !important;
 }
 
 
