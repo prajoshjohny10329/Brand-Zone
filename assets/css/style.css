@@ -6136,7 +6136,7 @@ ul.social-box li a:hover {
 }
 /* Paint Barnds End  */
 
-/* HardWare Products Start  */
+/* Paint Products Start  */
 .paint-product-1{
     background-image: url('/assets/images/products/paint/1.jpeg')
 }
@@ -6155,7 +6155,7 @@ ul.social-box li a:hover {
 .paint-product-6{
     background-image: url('/assets/images/products/paint/6.jpg')
 }
-/* HardWare Products End  */
+/* Paint Products End  */
 
 /* Curtains Products Start  */
 .curtains-product-1{
@@ -6206,3 +6206,47 @@ ul.social-box li a:hover {
 /* Doors Products End  */
 
 
+/* Lights Barnds Start  */
+.lights-brand-1{
+    background-image: url('/assets/images/brands/6-1.PNG')
+}
+.lights-brand-2{
+    background-image: url('/assets/images/brands/6-2.PNG')
+}
+.lights-brand-3{
+    background-image: url('/assets/images/brands/6-3.png')
+}
+.lights-brand-4{
+    background-image: url('/assets/images/brands/6-4.PNG')
+}
+.lights-brand-5{
+    background-image: url('/assets/images/brands/6-5.png')
+}
+.lights-brand-6{
+    background-image: url('/assets/images/brands/6-6.PNG')
+}
+.lights-brand-7{
+    background-image: url('/assets/images/brands/6-7.PNG')
+}
+/* Lights Barnds End  */
+
+/* Lights Products Start  */
+.lights-product-1{
+    background-image: url('/assets/images/products/lights/1.jpeg')
+}
+.lights-product-2{
+    background-image: url('/assets/images/products/lights/2.jpg')
+}
+.lights-product-3{
+    background-image: url('/assets/images/products/lights/3.jpg')
+}
+.lights-product-4{
+    background-image: url('/assets/images/products/lights/4.jpeg')
+}
+.lights-product-5{
+    background-image: url('/assets/images/products/lights/5.jpg')
+}
+.lights-product-6{
+    background-image: url('/assets/images/products/paint/6.jpg')
+}
+/* Lights Products End  */
