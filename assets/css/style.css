@@ -2369,7 +2369,8 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 =======================================---*/
 .hotel-fecilities {
     background: var(--white-color);
-    padding: 120px 0 39px;
+    /* padding: 120px 0 39px; */
+    padding: 100px 70px;
 }
 
 .hotel-fecilities .row.align-items-center {
@@ -2378,6 +2379,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .hotel-fecilities-box {
     position: relative;
+    padding: 0px 30px;
 }
 
 .hotel-fecilities-content h4 {
@@ -2425,7 +2427,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .hotel-fecilities-content p {
     color: #4e4e4e;
-    width: 82%;
+    /* width: 82%; */
     margin: 66px 0 0;
 }
 
@@ -2456,7 +2458,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .hotel-fecilities-box.two {
     position: relative;
-    left: 101px;
+    /* left: 101px; */
 }
 
 .hotel-fecilities-thumb.two {

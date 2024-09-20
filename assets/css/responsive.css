@@ -1132,7 +1132,7 @@ h4.cleandear-content {
 }
 
 .hotel-fecilities-content p {
-    width: 70%;
+    /* width: 70%; */
     margin: 66px 0 0;
 }
 
@@ -1572,7 +1572,7 @@ h4.cleandear-content {
 }
 
 .hotel-fecilities-content p {
-    width: 88%;
+    /* width: 88%; */
     margin: 66px 0 0;
 }
 
@@ -2068,7 +2068,7 @@ h4.cleandear-content {
 }
 
 .hotel-fecilities-content p {
-    width: 88%;
+    /* width: 88%; */
     margin: 66px 0 0;
 }
 
@@ -2731,7 +2731,7 @@ h4.cleandear-content {
 }
 
 .hotel-fecilities-content p {
-    width: 88%;
+    /* width: 88%; */
     margin: 66px 0 0;
 }
 
@@ -2824,6 +2824,11 @@ h4.cleandear-content {
 @media screen and  (max-width: 992px){
     .additional-top{
         padding-top: 180px !important;
+    }
+}
+@media screen and  (max-width: 992px){
+    .hotel-fecilities{
+        padding: 0px;
     }
 }
 @media screen and  (max-width: 1201px){
