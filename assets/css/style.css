@@ -5898,9 +5898,14 @@ ul.social-box li a:hover {
   .main-parent-section{
     padding: 50px 30px;
   }
+  .index-category-bottom{
+    display: flex;
+  }
   .index-category-brands{
     display: flex;
     justify-content: space-between;
+    padding: 18px 5px;
+    width: 100%;
   }
   .index-brand-img{
     background-repeat: no-repeat;
