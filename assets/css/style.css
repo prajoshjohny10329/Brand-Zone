@@ -5896,6 +5896,18 @@ ul.social-box li a:hover {
   .main-parent-section{
     padding: 50px 30px;
   }
+  .index-category-brands{
+    display: flex;
+    justify-content: space-between;
+  }
+  .index-brand-img{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 75px;
+    width: 100%;
+    margin: 0px 7px;
+  }
 
 
 /* Electrical product links */
