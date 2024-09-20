@@ -6235,18 +6235,33 @@ ul.social-box li a:hover {
     background-image: url('/assets/images/products/lights/1.webp')
 }
 .lights-product-2{
-    background-image: url('/assets/images/products/lights/2.jpg')
+    background-image: url('/assets/images/products/lights/2.webp')
 }
 .lights-product-3{
     background-image: url('/assets/images/products/lights/3.jpg')
 }
 .lights-product-4{
-    background-image: url('/assets/images/products/lights/4.jpeg')
+    background-image: url('/assets/images/products/lights/4.jpg')
 }
 .lights-product-5{
     background-image: url('/assets/images/products/lights/5.jpg')
 }
 .lights-product-6{
-    background-image: url('/assets/images/products/paint/6.jpg')
+    background-image: url('/assets/images/products/lights/6.jpg')
+}
+.lights-product-7{
+    background-image: url('/assets/images/products/lights/7.png')
+}
+.lights-product-8{
+    background-image: url('/assets/images/products/lights/8.jpg')
+}
+.lights-product-9{
+    background-image: url('/assets/images/products/lights/9.jpg')
+}
+.lights-product-10{
+    background-image: url('/assets/images/products/lights/10.webp')
+}
+.lights-product-11{
+    background-image: url('/assets/images/products/lights/11.jpg')
 }
 /* Lights Products End  */
