@@ -5950,6 +5950,7 @@ ul.social-box li a:hover {
 }
 .gallery-image{
     width: 100%;
+    padding-bottom: 25px;
 }
 
 /* Electrical product links */
