@@ -21,7 +21,7 @@ html {
   --golden-color:#af9556;
   --body-color:#686868;
   --white-color: #fff;
-  --fonts-title:'Cormorant Garamond', serif;
+  --fonts-title:'Lato', sans-serif;
   --fonts-body:'Lora', serif;
   --fonts-subtitle:'Open Sans', sans-serif;
   /* new colors  */
@@ -40,7 +40,8 @@ body {
     color:var(--body-color);
     font-weight: 400;
     text-align: left;
-   font-family:var(--fonts-body);
+    font-family: 'Lato', sans-serif;
+
 }
 
 p {
@@ -48,7 +49,8 @@ p {
     line-height: 26px;
     color:var(--secondary-color);
     font-weight: 400;
-    font-family:var(--fonts-body);
+    font-family: 'Lato', sans-serif;
+
 }
 
 h1,

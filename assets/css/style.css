@@ -496,6 +496,8 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     font-size: 44px;
     text-transform: uppercase;
     line-height: 41px;
+    font-family: 'Lato', sans-serif;
+
 }
 
 .section-title h1 span{
@@ -1751,7 +1753,7 @@ p.footer-desc {
     text-transform: uppercase;
     line-height: 72px;
     color: #fff;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .style-two .hero-button a {
@@ -3413,6 +3415,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     color: #ffffff;
     font-weight: 600;
     margin-bottom: 26px;
+    font-family: 'Lato', sans-serif;
 }
 
 .inner-style .single-input-box input {
@@ -3466,7 +3469,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     text-transform: uppercase;
     color: #ffffff;
     font-weight: 500;
-    font-family:var(--fonts-title);
+    font-family: 'Lato', sans-serif;
     width: 100%;
     border: transparent;
     padding: 16px 0;
@@ -3757,6 +3760,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     margin: 0;
     color: #383838;
     transition: 0.5s;
+    font-family: 'Lato', sans-serif;
 }
 
 .single-info-box:hover .single-info-content h4{
@@ -3769,6 +3773,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     font-weight: 500;
     margin: 12px 0 0;
     transition: 0.5s;
+    font-family: 'Lato', sans-serif;
 }
 
 .single-info-box:hover .single-info-content p{
