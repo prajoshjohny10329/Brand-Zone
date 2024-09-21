@@ -1708,36 +1708,33 @@ p.footer-desc {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 750px;
+    height: 720px;
     padding: 0 0 102px;
     /* margin: 0 122px 0; */
 }
-.style-two.hero-area-one {
-    background: url(../images/slider/brand-zone-slider-1.jpg);
+.style-two.hero-area-two-1 {
+    background: url(../images/home/slider-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 750px;
+    height: 720px;
     padding: 0 0 102px;
-    /* margin: 0 122px 0; */
 }
-.style-two.hero-area-two {
-    background: url(../images/about/3.jpg);
+.style-two.hero-area-two-2 {
+    background: url(../images/home/slider-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 750px;
+    height: 720px;
     padding: 0 0 102px;
-    /* margin: 0 122px 0; */
 }
-.style-two.hero-area-three {
-    background: url(../images/slider/brand-zone-slider-3.jpg);
+.style-two.hero-area-two-3 {
+    background: url(../images/home/slider-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 750px;
+    height: 720px;
     padding: 0 0 102px;
-    /* margin: 0 122px 0; */
 }
 
 .style-two .hero-content h4 {
@@ -1783,7 +1780,7 @@ p.footer-desc {
     height: 100%;
     left: 50%;
     top: 0;
-    background:var(--primary-color);
+    background:#000;
     border-radius: 35px;
     z-index: -1;
     transition: 0.5s;
