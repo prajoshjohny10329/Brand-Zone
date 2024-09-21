@@ -66,7 +66,7 @@
 }
 
 .header-menu ul li a:hover{
-    color:#c19d68;
+    color: var(--primary-color);
 }
 
 .header-menu ul li i {
@@ -5778,7 +5778,7 @@ ul.social-box li a:hover {
     font-weight: 400;
   }
   .header-menu ul li ul.mega-menu li ul li a:hover {
-    color: var(--theme-color);
+    color: var(--primary-color);
   }
   .header-menu ul.mega-menu,
   .header-menu ul.sub-menu {
@@ -5930,7 +5930,10 @@ ul.social-box li a:hover {
     width: 100%;
     margin: 0px 7px;
   }
-
+.main-title-mega{
+    font-weight: 700 !important; 
+    color: var(--primary-color) !important;
+}
 
 /* Electrical product links */
 
