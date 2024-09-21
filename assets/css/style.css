@@ -612,7 +612,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
    <!--Brand Zone Room Area Css-->
 ==================================---*/
 .room-area {
-    background: #ffffff;
+    background: #f9f9f9;
     padding: 120px 0 119px 90px;
 }
 
@@ -2857,6 +2857,13 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     background-position: center center;
     padding: 157px 0 172px;
 }
+.breadcumb-area-2 {
+    background: url(../images/background/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 157px 0 172px;
+}
 .breadcumb-area-e {
     background: url(../images/products/electrical/2.JPG);
     background-repeat: no-repeat;
@@ -2874,12 +2881,14 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     color: #ffff;
     text-transform: uppercase;
     margin: 0 0 9px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
 }
 
 .breadcumb-content ul li {
     display: inline-block;
     color: #ffff;
-    font-family: var(--fonts-body);
+    font-family: 'Lato', sans-serif;
     text-transform: uppercase;
 }
 
