@@ -3775,6 +3775,10 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     font-size: large;
     line-height: 39px;
 }
+.form-contact-info:hover{
+    color: var(--primary-color);
+    
+}
 
 /*
 <!-- ========================================-->
@@ -5720,6 +5724,14 @@ ul.social-box li a:hover {
 /* start visit our shop section  */
 .visit-shop-head{
     color: var(--primary-color);
+}
+.visit-shop-h4{
+    color: var(--primary-color);
+    font-family: 'Open Sans', sans-serif;
+}
+.visit-shop-h4-h4{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
 }
 .visit-shop-text{
     font-family: 'Open Sans', sans-serif;
