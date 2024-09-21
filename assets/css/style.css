@@ -114,7 +114,8 @@
 }
 
 .header-sidbar {
-    display: inline-block;
+    /* display: inline-block; */
+    display: none;
 }
 
 .header-sidbar i {
@@ -1420,6 +1421,7 @@ p.footer-desc {
     color: #acacac;
     width: 90%;
     margin: 0 0 26px;
+    font-family: 'Lato', sans-serif;
 }
 
 .footear-contact i {
@@ -1436,7 +1438,7 @@ p.footer-desc {
 .footer-phone{
     color: #fff;
     display: inline-block;
-    font-family: var(--fonts-body);
+    font-family: 'Lato', sans-serif;
 }
 .footer-widget-title h4 {
     font-size: 22px;
@@ -1447,6 +1449,7 @@ p.footer-desc {
     position: relative;
     margin-bottom: 26px;
     margin-top: 6px;
+    font-family: 'Lato', sans-serif;
 }
 
 .footer-widget-title h4:before {
@@ -1511,7 +1514,7 @@ p.footer-desc {
     line-height: 40px;
     color: #acacac;
     font-weight: 400;
-    font-family:var(--fonts-body);
+    font-family: 'Lato', sans-serif;
     position: relative;
 }
 
@@ -1600,6 +1603,7 @@ p.footer-desc {
     font-size: 15px;
     margin-left: 54px;
     transition: 0.5s;
+    font-family: 'Lato', sans-serif;
 }
 
 .footer-bottom-content ul li a:hover{
@@ -2485,6 +2489,8 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .style-two.teastimonial-area .section-title h1 {
     color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
 }
 
 .style-two .teasti-content p {
@@ -2530,6 +2536,8 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     font-weight: 600;
     text-align: center;
     margin-bottom: 30px;
+    font-family: 'Lato', sans-serif;
+
 }
 
 .style-two .single-input-box input {
@@ -2547,6 +2555,8 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     border: 2px solid rgba(255,255,255,0.15);
     outline: 0;
     border-radius: 30px;
+    font-family: 'Lato', sans-serif;
+
 }
 
 .style-two .single-input-box input::placeholder{
@@ -2555,7 +2565,8 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     line-height: 26px;
     color: #ffffff;
     font-weight: 400;
-    font-family: var(--fonts-secondary);
+    font-family: 'Lato', sans-serif;
+
 }
 
 .style-two .single-input-box textarea {
@@ -2588,7 +2599,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     text-transform: uppercase;
     color: #ffffff;
     font-weight: 500;
-    font-family: var(--fonts-title);
+    font-family: 'Lato', sans-serif;
     border-radius: 30px;
     transition: 0.5s;
     margin-top: 19px;
