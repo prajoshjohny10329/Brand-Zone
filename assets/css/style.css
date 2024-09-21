@@ -6279,3 +6279,24 @@ ul.social-box li a:hover {
     background-image: url('/assets/images/products/lights/11.jpg')
 }
 /* Lights Products End  */
+
+/* Solar Products Start  */
+.solar-product-1{
+    background-image: url('/assets/images/products/solar/1.webp')
+}
+.solar-product-2{
+    background-image: url('/assets/images/products/solar/2.jpg')
+}
+.solar-product-3{
+    background-image: url('/assets/images/products/solar/3.webp')
+}
+.solar-product-4{
+    background-image: url('/assets/images/products/solar/4.png')
+}
+.solar-product-5{
+    background-image: url('/assets/images/products/solar/5.webp')
+}
+.solar-product-6{
+    background-image: url('/assets/images/products/solar/6.webp')
+}
+/* Solar Products End  */
