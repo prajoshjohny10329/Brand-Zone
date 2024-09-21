@@ -6315,6 +6315,33 @@ ul.social-box li a:hover {
 }
 /* Solar Products End  */
 
+/* appliances Barnds Start  */
+.appliances-brand-1{
+    background-image: url('/assets/images/brands/7-1.PNG')
+}
+.appliances-brand-2{
+    background-image: url('/assets/images/brands/7-2.PNG')
+}
+.appliances-brand-3{
+    background-image: url('/assets/images/brands/7-3.PNG')
+}
+.appliances-brand-4{
+    background-image: url('/assets/images/brands/7-4.PNG')
+}
+.appliances-brand-5{
+    background-image: url('/assets/images/brands/7-5.PNG')
+}
+.appliances-brand-7{
+    background-image: url('/assets/images/brands/7-6.PNG')
+}
+.appliances-brand-7{
+    background-image: url('/assets/images/brands/7-7.png')
+}
+.appliances-brand-8{
+    background-image: url('/assets/images/brands/7-8.PNG')
+}
+/* appliances Barnds End  */
+
 /* Appliances Products Start  */
 .appliances-product-1{
     background-image: url('/assets/images/products/appliance/1.jpg')
