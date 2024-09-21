@@ -41,6 +41,7 @@
 	<!-- ScrollCue CSS -->
 	<link rel="stylesheet" href="assets/css/scrollCue.css" type="text/css" media="all">
 	<link rel="stylesheet" href="assets/css/coustome-animation.css" type="text/css" media="all">
+	<link rel="stylesheet" href="assets/css/magnific-popup.css">
 	<!-- modernizr js -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -230,6 +231,36 @@
 	</div>
 </section>
 
+<section class="brand-display additional-top"></section>
+	<div class="container" style="background-color: transparent;">
+		<div class="row">
+			<div class="col-lg-4">
+				<a href="assets/images/gallery/01.avif" title="" class="popup-link">
+					<div class="gallery-card">
+						<img class="gallery-image" src="assets/images/gallery/01.avif" alt="3D Interior Design by INTARC Builders & Interiors">
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4">
+				<a href="assets/images/gallery/010.avif" title="" class="popup-link">
+					<div class="gallery-card">
+						<img class="gallery-image" src="assets/images/gallery/010.avif" alt="3D Interior Design by INTARC Builders & Interiors">
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4">
+				<a href="assets/images/gallery/012.jpg" title="" class="popup-link">
+					<div class="gallery-card">
+						<img class="gallery-image" src="assets/images/gallery/012.jpg" alt="3D Interior Design by INTARC Builders & Interiors">
+					</div>
+				</a>
+			</div>
+		</div>
+		<div class="row" style="padding-top: 50px;">
+	  </div>
+	</div>
+</section>
+
 <!--==================================================-->
 <!-- Start Brandz Zone Footer Area -->
 <!--==================================================-->
@@ -397,6 +428,30 @@
 	<script src="assets/js/ScrollTrigger.min.js"></script>
 	<script src="assets/js/SplitText.min.js"></script>
 	<script src="assets/js/text-animation.js"></script>
+	<script src="assets/js/jquery.magnific-popup.js"></script>
+
+	<script>
+		$(document).ready(function() {
+		  $('.popup-link').magnificPopup({
+			type: 'image',
+			mainClass: 'mfp-fade',
+			removalDelay: 300,
+			gallery: {
+			  enabled: true,
+			  navigateByImgClick: true,
+			  preload: [0,1] // Preloads the previous and next images
+			},
+			callbacks: {
+			  open: function() {
+				console.log('Popup is opened');
+			  },
+			  close: function() {
+				console.log('Popup is closed');
+			  }
+			}
+		  });
+		});
+		</script>
 
 </body>
 

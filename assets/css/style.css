@@ -5948,6 +5948,9 @@ ul.social-box li a:hover {
     font-weight: 700 !important; 
     color: var(--primary-color) !important;
 }
+.gallery-image{
+    width: 100%;
+}
 
 /* Electrical product links */
 
@@ -6331,7 +6334,7 @@ ul.social-box li a:hover {
 .appliances-brand-5{
     background-image: url('/assets/images/brands/7-5.PNG')
 }
-.appliances-brand-7{
+.appliances-brand-6{
     background-image: url('/assets/images/brands/7-6.PNG')
 }
 .appliances-brand-7{
