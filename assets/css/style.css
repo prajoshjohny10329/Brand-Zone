@@ -6373,3 +6373,7 @@ ul.social-box li a:hover {
 }
 
 /* Appliances Products End  */
+
+.second-menu{
+    display: none !important;
+}
