@@ -6307,6 +6307,28 @@ ul.social-box li a:hover {
 }
 /* Lights Products End  */
 
+/* Solar Barnds Start  */
+.solar-brand-1{
+    background-image: url('/assets/images/brands/8-1.PNG')
+}
+.solar-brand-2{
+    background-image: url('/assets/images/brands/8-2.PNG')
+}
+.solar-brand-3{
+    background-image: url('/assets/images/brands/8-3.PNG')
+}
+.solar-brand-4{
+    background-image: url('/assets/images/brands/8-4.PNG')
+}
+.solar-brand-5{
+    background-image: url('/assets/images/brands/8-5.PNG')
+}
+.solar-brand-6{
+    background-image: url('/assets/images/brands/8-6.PNG')
+}
+
+/* Solar Barnds End  */
+
 /* Solar Products Start  */
 .solar-product-1{
     background-image: url('/assets/images/products/solar/1.webp')
