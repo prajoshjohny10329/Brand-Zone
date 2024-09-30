@@ -2825,9 +2825,25 @@ h4.cleandear-content {
     .additional-top{
         padding-top: 180px !important;
     }
+    .lap-footer-list{
+        display: none !important;
+    }
+}
+@media screen and  (max-width: 990px){
+    .lap-footer-list{
+        display: none !important;
+    }
+}
+@media screen and  (min-width: 992px){
+    .responsive-footer{
+        display: none !important;
+    }
 }
 /* mobile  */
 @media screen and  (max-width: 767px){
+    .responsive-none{
+        display: none;
+    }
     .about-area.inner-style{
         padding: 100px 15px 10px;
     }
@@ -2837,6 +2853,12 @@ h4.cleandear-content {
     }
     .room-area{
         padding: 100px 15px 10px;
+    }
+    .footer-area{
+        padding: 39px 0 35px;
+    }
+    .responsive-footer-h4{
+        margin-top: -15px;
     }
 }
 @media screen and  (max-width: 992px){
