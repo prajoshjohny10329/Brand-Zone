@@ -5600,9 +5600,9 @@ ul.social-box li a:hover {
     align-items: center;
     background-color: #ffffff;
 }
-.single-product-text:hover{
+/* .single-product-text:hover{
     filter: invert(1);
-}
+} */
 .single-product-content{
     padding: 20px;
 }
