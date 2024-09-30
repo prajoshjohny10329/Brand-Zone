@@ -2826,6 +2826,19 @@ h4.cleandear-content {
         padding-top: 180px !important;
     }
 }
+/* mobile  */
+@media screen and  (max-width: 767px){
+    .about-area.inner-style{
+        padding: 100px 15px 10px;
+    }
+    .section-title h1{
+        font-size: xx-large;
+        line-height: 35px;
+    }
+    .room-area{
+        padding: 100px 15px 10px;
+    }
+}
 @media screen and  (max-width: 992px){
     .hotel-fecilities{
         padding: 0px;
