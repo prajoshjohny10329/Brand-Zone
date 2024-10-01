@@ -493,9 +493,8 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .section-title h1 {
-    font-size: 44px;
     text-transform: uppercase;
-    line-height: 41px;
+    line-height: 50px;
     font-family: 'Lato', sans-serif;
 
 }
@@ -1751,6 +1750,7 @@ p.footer-desc {
     line-height: 72px;
     color: #fff;
     font-weight: 500;
+    text-shadow: 5px 3px 7px #000000;
 }
 
 .style-two .hero-button a {
@@ -1767,6 +1767,8 @@ p.footer-desc {
     position: relative;
     z-index: 1;
     transition: 0.5s;
+    box-shadow: 4px 3px 10px #0000008f;
+    font-weight: 600;
 }
 
 .style-two .hero-button a:hover{
@@ -1947,6 +1949,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     width: 92%;
     margin: 25px 0 0;
     font-family: 'Open Sans', sans-serif;
+    font-family: 17px;
 
 }
 
