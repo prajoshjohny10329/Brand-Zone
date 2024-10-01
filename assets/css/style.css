@@ -6415,3 +6415,8 @@ ul.social-box li a:hover {
     width: 96%;
     align-self: center;
 }
+.single-images-product{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
