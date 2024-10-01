@@ -6408,3 +6408,7 @@ ul.social-box li a:hover {
 .responsive-none{
     display: none;
 }
+.barnd-images-page{
+    width: 96%;
+    align-self: center;
+}
