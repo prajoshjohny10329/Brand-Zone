@@ -5955,6 +5955,10 @@ ul.social-box li a:hover {
     width: 100%;
     margin: 0px 7px;
   }
+  .only-brand-img{
+    width: 100%;
+    margin: 0px 7px;
+  }
 .main-title-mega{
     font-weight: 700 !important; 
     color: var(--primary-color) !important;
