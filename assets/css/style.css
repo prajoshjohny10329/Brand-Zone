@@ -6084,19 +6084,22 @@ ul.social-box li a:hover {
 
 /* Sanitary Brands Start  */
 .sanitary-brand-1{
-    background-image: url('/assets/images/brands/3-kohler.png')
+    background-image: url('/assets/images/brands/3-1.png')
 }
 .sanitary-brand-2{
-    background-image: url('/assets/images/brands/3-jaquar.png')
+    background-image: url('/assets/images/brands/3-2.png')
 }
 .sanitary-brand-3{
-    background-image: url('/assets/images/brands/3-american.png')
+    background-image: url('/assets/images/brands/3-3.png')
 }
 .sanitary-brand-4{
-    background-image: url('/assets/images/brands/3-grohe.png')
+    background-image: url('/assets/images/brands/3-4.png')
 }
 .sanitary-brand-5{
-    background-image: url('/assets/images/brands/3-RAk.png')
+    background-image: url('/assets/images/brands/3-5.png')
+}
+.sanitary-brand-6{
+    background-image: url('/assets/images/brands/3-6.png')
 }
 /* Sanitary Brands End  */
 
