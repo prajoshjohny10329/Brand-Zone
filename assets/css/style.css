@@ -6397,3 +6397,9 @@ ul.social-box li a:hover {
     align-items: center;
     overflow: hidden;
 }
+.our-brands-title{
+    color: black;
+    text-align: center;
+    padding: 15px 0px 15px;
+    border-bottom: solid #0000000f;
+}
