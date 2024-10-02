@@ -6392,7 +6392,9 @@ ul.social-box li a:hover {
     align-self: center;
 }
 .single-images-product{
+    height: 290px;
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
