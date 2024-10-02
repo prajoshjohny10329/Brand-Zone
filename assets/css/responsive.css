@@ -2885,3 +2885,9 @@ h4.cleandear-content {
         display: inline-block !important;
     }
 }
+@media screen and  (max-width: 992px){
+    .direction-change{
+        flex-direction: column-reverse;
+    }
+    
+}
