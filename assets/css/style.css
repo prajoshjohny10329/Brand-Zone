@@ -6061,30 +6061,6 @@ ul.social-box li a:hover {
 }
 /* End plumbing Brands   */
 
-/* plumbing Products start  */
-.plumbing-product-1{
-    background-image: url('/assets/images/products/plumbing/2-1.png')
-}
-.plumbing-product-2{
-    background-image: url('/assets/images/products/plumbing/2-2.png')
-}
-.plumbing-product-3{
-    background-image: url('/assets/images/products/plumbing/2-3.png')
-}
-.plumbing-product-4{
-    background-image: url('/assets/images/products/plumbing/2-4.png')
-}
-.plumbing-product-5{
-    background-image: url('/assets/images/products/plumbing/2-5.png')
-}
-.plumbing-product-6{
-    background-image: url('/assets/images/products/plumbing/2-6.png')
-}
-.plumbing-product-7{
-    background-image: url('/assets/images/products/plumbing/2-8.png')
-}
-/* plumbing image address end  */
-
 /* Sanitary Brands Start  */
 .sanitary-brand-1{
     background-image: url('/assets/images/brands/3-kohler.png')
