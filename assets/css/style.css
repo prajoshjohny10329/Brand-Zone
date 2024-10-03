@@ -2067,7 +2067,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
    <!-- Brand Zone Service Area Css Style Two -->
 =======================================---*/
 .style-two.service-area {
-    padding: 100px 0 120px;
+    padding: 100px 0 80px;
     background: var(--secondary-color);
 }
 
@@ -5872,7 +5872,7 @@ ul.social-box li a:hover {
 
 .testimonial-section{
     padding: 50px 20px;
-    background-color: #f7f7f7;
+    background-color: #ffffff;
 }
 
 .carousel img {
