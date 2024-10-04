@@ -148,3 +148,11 @@
 
 
 })(jQuery);
+
+//for disable links
+// document.querySelectorAll('a').forEach(link => {
+//     link.addEventListener('click', function(event) {
+//       event.preventDefault();
+//     });
+//   });
+  
