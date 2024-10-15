@@ -3360,7 +3360,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 .inner-style .row.add-backgroun {
     background-color: #e9e9e9;
-    padding: 98px 67px 101px;
+    padding: 98px 67px 40px;
 }
 
 .inner-style .single-contact-box {
