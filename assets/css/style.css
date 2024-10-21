@@ -5534,40 +5534,10 @@ ul.social-box li a:hover {
 .bouncing-logo {
     width: 140px; /* Adjust as needed */
     height: auto; /* Maintain aspect ratio */
-    animation: icon-bounce  2s infinite;
 }
 
 
-@-webkit-keyframes icon-bounce {
-	0%, 100%, 20%, 50%, 80% {
-	  -webkit-transform: translateY(0);
-	  transform: translateY(0);
-	}
-	40% {
-	  -webkit-transform: translateY(-10px);
-	  transform: translateY(-10px);
-	}
-	60% {
-	  -webkit-transform: translateY(-5px);
-	  transform: translateY(-5px);
-	}
-  }
-  @keyframes icon-bounce {
-	0%, 100%, 20%, 50%, 80% {
-	  -webkit-transform: translateY(0);
-	  transform: translateY(0);
-	}
-	40% {
-	  -webkit-transform: translateY(-10px);
-	  transform: translateY(-10px);
-	}
-	60% {
-	  -webkit-transform: translateY(-5px);
-	  transform: translateY(-5px);
-	}
-  }
 
-  /* bouncing logo end  */
 
   /* whose are client */
 .whose-are-clients{
