@@ -540,12 +540,52 @@
 								<h2 class="portfolio-title">
 									Wallpapers
 								</h2>
-								<h2 class="project-category">Make a statement with our extensive collection of wallpapers, designed to add character and depth to your walls. Whether you prefer bold designs or subtle textures, our wallpapers are ideal for living rooms, bedrooms, offices, and more, offering endless possibilities to create an inviting atmosphere .</h2>
+								<h2 class="project-category">Make a statement with our extensive collection of wallpapers, designed to add character and depth to your walls. Our wallpapers are ideal for living rooms, bedrooms, offices, and more, offering endless possibilities to create an inviting atmosphere .</h2>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+		</div>
+		<style>
+			.container-1 {
+  position: relative;
+  background: #2c3e50;
+  height: 50vh;
+}
+
+			.wave {
+  position: absolute;
+  height: 222px;
+  width: 100%;
+  background: #2c3e50;
+  bottom: 0;
+}
+
+.wave::before, .wave::after {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 100% 50%;
+}
+
+.wave::before {
+  width: 55%;
+  height: 109%;
+  background-color: #fff;
+  right: -1.5%;
+  top: 60%;
+}
+.wave::after {
+  width: 55%;
+  height: 100%;
+  background-color: #2c3e50;
+  left: -1.5%;
+  top: 40%;
+}
+		</style>
+		<div class="container-1">
+			<div class="wave"></div>
 		</div>
 	</section>
 	<!--==================================================-->
